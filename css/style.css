@@ -108,6 +108,7 @@ html {
 }
 .hero .content h1 span {
   color: var(--primary);
+  text-shadow: 2px 2px #010101;
 }
 .hero .content p {
   font-size: 1.6rem;
